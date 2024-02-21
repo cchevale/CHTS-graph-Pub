@@ -18,7 +18,10 @@ This is a work in progress. Everybody is invited to contribute by bringing error
 
 > *As of December 1, 2023: 636 references*
 
-## Monographs, Edited Volumes & Special Issues
+<details>
+  <summary>
+Monographs, Edited Volumes & Special Issues
+  </summary>
 
 1. Abe Kōzō 阿部弘蔵, 1926, *Nihon doreishi* 日本奴隷史 (A History of Slavery in Japan), Tōkyō, Seikōkan Shuppanbu.
 1. Abe Kōzō 阿部弘蔵 & Yagiri Tomeo 八切止夫, 1980 [1928], *Nihon doreishi jiten: shomin Nihon shiryō* 日本奴隷史事典: 庶民日本史料 (Encyclopedia of Slavery in Japan. Historical Documents in Japanese), Tōkyō, Nihon Sheru Shuppan.
@@ -246,7 +249,12 @@ This is a work in progress. Everybody is invited to contribute by bringing error
 1. *Zhongguo nulizhi jingji xingtai de pianduan tantao* 中國奴隸制經濟形態的片斷探討 (Elements of Discussion about the Economic Condition of Slaves in China), 1958, Beijing, Sanlian shudian.
 1. Zhou Xishan 周锡山, 2006, *Hongloumeng de nubi shijie* 後樓夢的奴婢世界 (The World of *Nubi* in the *Dream of the Red Chamber*), Taiyuan, Bei Yue wenyi chubanshe.
 
-## Theses
+</details>
+
+<details>
+  <summary>
+Theses
+  </summary>
 
 1. Abele, Michael Thomas, 2018, "Peasants, Skinners, and Dead Cattle: The Transformation of Rural Society in Western Japan, 1600-1890", PhD Thesis, University of Illinois at Urbana-Champaign.
 1. Ai Jing 艾晶, 2007, "Qingmo Minchu nüxing guaitao fangzhi yanjiu (1901-1919)" 清末民初女性拐逃防治研究 (1901-1919) (Policies Against Women Trafficking at the End of the Qing and the Early Republican Era, 1901-1919), PhD Thesis, Sichuan University.
@@ -307,9 +315,12 @@ This is a work in progress. Everybody is invited to contribute by bringing error
 1. Zhang Wenjing 張文晶, 2005, "Shilun Zhongguo zhonggu liangjian de shuaiwang" 試論中國中古良賤制度的衰亡 (Essay on the Decline of the Honorable and Mean Statuses in Medieval China), Master Thesis, Nanjing Shifan daxue.
 1. Zhou Shuzhao 周叔昭, 1933, "Beiping youguai de yanjiu" 北平誘拐的研究 (Research on Traffickers in Beiping), Master Thesis, Yanjing University.
 
-## Book Chapters & Journal Articles
+</details>
 
-### Asia, Indian Ocean World & The Pacific (Global & General)
+<details>
+  <summary>
+Chapters & Articles: Asia, Indian Ocean World & The Pacific (Global & General)
+  </summary>
 
 1. Abaya-Ulindang, Faina, 2012, "Slavery: Prehistory to 1200: East and Southeast Asia", in Purdy, Stanton, Andrea L., Ramsamy, Edward, Seybolt, Peter J. & Elliott, Carolyn M. (eds), *Cultural Sociology of the Middle East, Asia, & Africa: An Encyclopedia*, Thousand Oaks, SAGE Publications, Inc., vol. 4, III73-III73. [https://doi.org/10.4135/9781452218458](https://doi.org/10.4135/9781452218458)
 1. Allen, Richard B., 2004, "The Mascarene Slave-Trade and Labour Migration in the Indian Ocean during the Eighteenth and Nineteenth Centuries", in Campbell, Gwyn (ed.), *The Structure of Slavery in Indian Ocean Africa and Asia*, London, Frank Cass, 33-50.
@@ -378,7 +389,12 @@ This is a work in progress. Everybody is invited to contribute by bringing error
 1. Vink, Markus, 2003, "'The World's Oldest Trade': Dutch Slavery and Slave Trade in the Indian Ocean in the Seventeenth Century," *Journal of World History*, 14(2), 131-177. [https://doi.org/10.1353/jwh.2003.0026](https://doi.org/10.1353/jwh.2003.0026)
 1. Zeuske, Michael, 2016, "Coolies – Asiaticos and Chinos: Global dimensions of second slavery", in ed. Damir-Geilsdorf, Sabine, Lindner, Ulrike, Müller, Gesine, Tappe, Oliver & Zeuske, Michael (eds), *Bonded Labour: Global Dimensions and Comparative Perspectives (18th-21st Century)*, Bielefeld, Transcript Verlag, Chap. 1.
 
-### Central & North Asia
+</details>
+
+<details>
+  <summary>
+Chapters & Articles: Central & North Asia
+  </summary>
 
 1. Bass, Sam H., 2021, "Slave Donations to Buddhist Parishes in Qing Mongolia", *Harvard Journal of Asiatic Studies* 81(1), 109-131. [https://doi.org/10.1353/jas.2021.0013](https://doi.org/10.1353/jas.2021.0013)
 1. Biran, Michal, 2021, "Forced Migrations and Slavery in the Mongol Empire (1206–1368)", in Perry, Craig, Eltis, David, Engerman, Stanley & Richardson, David (eds), *The Cambridge World History of Slavery*. *Volume 2: AD 500–AD 1420*, Cambridge, Cambridge University Press, 76-99. [https://doi.org/10.1017/9781139024723.004](https://doi.org/10.1017/9781139024723.004)
@@ -387,7 +403,12 @@ This is a work in progress. Everybody is invited to contribute by bringing error
 1. Stanziani, Alessandro, 2014, "Slavery and Bondage in Central Asia and Russia from the Fourteenth to the Nineteenth Century", in *Bondage. Labor and Rights in Eurasia from the Sixteenth to the Early Twentieth Centuries*, New York & London, Berghan, 63-100.
 1. Wyatt, Don J., 2021, "Slavery and the Mongol Empire", in Allen, Richard B. (ed.), *Slavery and Bonded Labor in Asia, 1250-1900*, Leiden, Brill, 111-130. [https://doi.org/10.1163/9789004469655_006](https://doi.org/10.1163/9789004469655_006)
 
-### China
+</details>
+
+<details>
+  <summary>
+Chapters & Articles: China
+  </summary>
 
 1. Ahern, Emily M., 1978, "The Power and Pollution of Chinese Women”, *Studies in Chinese Society*, 269-290, 362-363. [https://ehrafworldcultures.yale.edu/document?id=ad05-029](https://ehrafworldcultures.yale.edu/document?id=ad05-029).
 1. Allen, Robert C. et al., 2011, "Wages, Prices, and Living Standards in China, 1738-1925: In Comparison with Europe, Japan, and India", *Economic History Review* 64, 8-38. [https://doi.org/10.1111/j.1468-0289.2010.00515.x](https://doi.org/10.1111/j.1468-0289.2010.00515.x)
@@ -529,7 +550,12 @@ This is a work in progress. Everybody is invited to contribute by bringing error
 1. Zurndorfer, Harriet T., 2021, "Economic, Social, and Legal Aspects of Slavery and Indentured Labor in Late Ming China (1550–1645): What the Huizhou Documents Tell Us", in Allen, Richard B. (ed.), *Slavery and Bonded Labor in Asia, 1250-1900*, Leiden, Brill, 131-149. [https://doi.org/10.1163/9789004469655_007](https://doi.org/10.1163/9789004469655_007)
 1. Zurndorfer, Harriet T., 2023, "Human Trafficking and Piracy in Early Modern East Asia: Maritime Challenges to the Ming Dynasty Economy, 1370–1565", *Comparative Studies in Society and History*, 1-24. [https://doi.org/10.1017/S0010417523000270](https://doi.org/10.1017/S0010417523000270)
 
-### Japan
+</details>
+
+<details>
+  <summary>
+Chapters & Articles: Japan
+  </summary>
 
 1. Botsman, Daniel, 2011, "Freedom without slavery? 'Coolies', Prostitutes, and Outcastes in Meiji Japan's 'Emancipation Moment", *The American Historical Review* 116(5), 1323-1347. [https://doi.org/10.1086/ahr.116.5.1323](https://doi.org/10.1086/ahr.116.5.1323)
 1. Burns, Suzan, 1998, "Bodies and Borders: Syphilis, Prostitution, and the Nation in Japan, 1860–1890", *U.S.-Japan Women's Journal. English Supplement* 15, 3-30.
@@ -551,7 +577,12 @@ This is a work in progress. Everybody is invited to contribute by bringing error
 1. Yokoyama Yuriko, 2016, "The Yūjo Release Act as Emancipation of Slaves in Mid-19th-Century Japan", in Suzuki Hideaki (ed.), *Abolitions as a Global Experience*, Singapore, NUS Press, 161-198. [https://doi.org/10.2307/j.ctv1qv3hg.12](https://doi.org/10.2307/j.ctv1qv3hg.12)
 1. Takekoshi Yosaburo, 2004 [1930], "From the Slave System to the Wage System of Economics", in *The Economic Aspects of the History of the Civilization of Japan*, London, Routledge, vol. 2, chap. 41.
 
-### Korea
+</details>
+
+<details>
+  <summary>
+Chapters & Articles: Korea
+  </summary>
 
 1. Breuker, Remco E., 2023, "North Korean Slavery and Forced Labor in Present-Day Europe", in Pargas, Damian. A. & Schiel, Juliane (eds), *The Palgrave Handbook of Global Slavery throughout History*, Cham, Palgrave Macmillan, 643-660. [https://doi.org/10.1007/978-3-031-13260-5_36](https://doi.org/10.1007/978-3-031-13260-5_36)
 1. Brezis, Elise S. & Kim Heeho, 2009, "Was the Korean Slave Market Efficient?", *Munich Personal RePEc Archive*. [https://mpra.ub.uni-muenchen.de/14735/1/MPRA_paper_14735.pdf](https://mpra.ub.uni-muenchen.de/14735/1/MPRA_paper_14735.pdf)
@@ -574,7 +605,12 @@ This is a work in progress. Everybody is invited to contribute by bringing error
 1. Soh Chung-Hee, 2004, "Women's Sexual Labor and State in Korean History", *Journal of Women's History* 15(4), 170-177. [https://doi.org/10.1353/jowh.2004.0022](https://doi.org/10.1353/jowh.2004.0022)
 1. Stiller, Maya, 2019, "Slaves, Village Headmen, and Aristocrats: Patronage and Functions of Buddhist Sculpture Burials in Late Koryŏ and Early Chosŏn Korea", *Cahiers d'Extrême Asie* 28, 265-291.
 
-### South Asia & India
+</details>
+
+<details>
+  <summary>
+Chapters & Artciles: South Asia & India
+</summary>
 
 1. Ahuja, Ravi, 2002, "Labour Relations in an Early Colonial Context: Madras, c. 1750–1800", *Modern Asian Studies* 36(4), 793-826. [https://doi.org/10.1017/S0026749X0200402X](https://doi.org/10.1017/S0026749X0200402X)
 1. Allen, Richard B., 2005, "Carrying Away the Unfortunate: The Exportation of Slaves from India during the Late Eighteenth Century", in Weber, Jacques (ed.), *Le Monde Créole: Peuplement, Sociétés et Condition Humaine XVIIe-XXe Siècles*, Paris, Les Indes savantes, 285-298.
@@ -622,7 +658,12 @@ This is a work in progress. Everybody is invited to contribute by bringing error
  628, 734-746.
 1. Walker, Timothy, 2005, "Abolishing the Slave Trade in Portuguese India: Documentary Evidence of Popular and Official Resistance to Crown Policy, 1842-60", in Alpers, Edward A., Campbell, Gwyn & Salman, Michael (eds), *Slavery and Resistance in Africa and Asia. Bonds of Resistance*, London, Routledge, 82-98.
 
-### Southeast Asia
+</details>
+
+<details>
+  <summary>
+  Chapters & Articles: Southeast Asia
+  </summary>
 
 1. Abeyasekere, Susan, 1983, "Slaves in Batavia: Insights from a Slave Register," in Reid, Anthony & Brewster, Jennifer (eds), *Slavery, Bondage, and Dependency in Southeast Asia,* St Lucia, University of Queensland Press, 286-314.
 1. Allen, Richard B., 2018, "Slavery in a Remote but Global Place: The British East India Company and Bencoolen, 1685-1825", *Social and Education History* 7(2), 151-176. [https://doi.org/10.17583/hse.2018.3374](https://doi.org/10.17583/hse.2018.3374).
@@ -697,3 +738,5 @@ Government and to the Filipino People'", in Campbell, Gwyn (ed.), *Abolition and
 1. Warren, James Francis, 2021, "Pearling and Slavery in the Sulu Zone, 1882–1884: The Letters and Diary of Thomas Henry Haynes", in Allen, Richard B. (ed.), *Slavery and Bonded Labor in Asia, 1250-1900*, Leiden, Brill, 284-301. [https://doi.org/10.1163/9789004469655_013](https://doi.org/10.1163/9789004469655_013)
 1. Winn, Phillip, 2010, "Slavery and cultural creativity in the Banda Islands", *Journal of Southeast Asian Studies*, 41(3), 365-389. [https://doi.org/10.1017/S0022463410000238](https://doi.org/10.1017/S0022463410000238)
 1. Zijlstra, Suze,  2020, “Free and Enslaved Asian Women in European and Eurasian Households in Eighteenth-Century Makassar”, in Jouwe, Nancy (ed.), *Gendered Empire : Intersectional Perspectives on Dutch Post/Colonial Narratives*, Hilversum, Verloren Publishers, 25-40.
+
+</details>
