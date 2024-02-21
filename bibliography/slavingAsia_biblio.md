@@ -8,11 +8,6 @@ CNRS, Institut d'Asie orientale
 
  >A Bibliography of Slaving, Trafficking, and (Bonded) Labour in Pre-modern China and Asia © 2022 by Claude Chevaleyre is licensed under CC BY 4.0
 
-<p align="left">
-  <img width="120" src="https://mirrors.creativecommons.org/presskit/logos/cc.logo.large.png">
-  <img width="30" src="https://upload.wikimedia.org/wikipedia/fr/8/8e/Centre_national_de_la_recherche_scientifique.svg">
-</p>
-
 ## About
 
 Following recent trends in global labour and slavery history, scholars have come to acknowledge the need to revisit the complex issue of slavery and bonded labour in China and Asia throughout history. A modest contribution to the field, this document offers an extensive bibliography of secondary literature about slaving, trafficking, dependency, and related issues (like [bound] labour, captives and convicts, class, race and caste, rights and abolitions, prostitution, gender dynamics, etc.) in early-modern China and Asia, with reference to the wider Indian Ocean World. The bibliography will progressively extend to earlier and later periods and also more generally to labour-related issues. Primary sources are not considered, but references in non-European languages are systematically integrated to promote the rich scholarship produced beyond the dominant, English-speaking academic world of the Global North.
